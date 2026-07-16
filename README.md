@@ -93,7 +93,7 @@ Install [MetaMask](https://metamask.io) (browser extension) or any EVM-compatibl
 Visit the [Monad Testnet Faucet](https://faucet.monad.xyz) and request free MON tokens. You need a small amount to pay gas fees.
 
 ### Step 4 — Connect and participate
-1. Open https://workspace-vert-nine.vercel.app
+1. Open https://monskills-tracker.replit.app/
 2. Click **Connect Wallet** → approve the connection in MetaMask
 3. Browse active proposals and click **Vote For** or **Vote Against**
 4. To create a proposal, click **New Proposal**, fill in the title and description, and submit
