@@ -2,7 +2,7 @@
 
 > A transparent, permissionless voting system where every decision is recorded permanently on a public blockchain.
 
-**Live app →** https://workspace-vert-nine.vercel.app  
+**Live app →** https://monskills-tracker.replit.app/
 **Smart contract on MonadScan →** https://testnet.monadscan.com/address/0xF4699628B3ae35eA05Cb94C891b589E9F180d217
 
 ---
