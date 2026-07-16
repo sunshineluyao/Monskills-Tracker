@@ -5,6 +5,8 @@
 **Live app →** https://monskills-tracker.replit.app/
 **Smart contract on MonadScan →** https://testnet.monadscan.com/address/0xF4699628B3ae35eA05Cb94C891b589E9F180d217
 
+![MonDAO demo — browse proposals, connect wallet, verify on MonadScan](./docs/demo.gif)
+
 ---
 
 ## What Is This?
